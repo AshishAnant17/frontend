@@ -1,0 +1,54 @@
+/* Ticket Owner Image Styling */
+/* Ticket Card Styling */
+.ticket-card {
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 16px;
+  margin-bottom: 16px;
+}
+
+.ticket-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.ticket-id {
+  font-size: 14px;
+}
+
+.ticket-priority-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
+
+.ticket-info {
+  margin-top: 12px;
+}
+
+.ticket-owner {
+  display: flex;
+  align-items: center;
+}
+
+.ticket-owner img {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  margin-right: 8px;
+}
+
+
+.ticket-owner {
+  display: flex;
+  align-items: center;
+}
+
+.user-avatar {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  margin-right: 8px;
+}
